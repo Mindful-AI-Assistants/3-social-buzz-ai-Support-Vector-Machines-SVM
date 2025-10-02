@@ -57,7 +57,7 @@
 
 > [!TIP]
 >
-> * [Access](): Workbook Support Vctor Machines (SVM)
+> * [Access](https://github.com/Mindful-AI-Assistants/3-social-buzz-ai-Support-Vector-Machines-SVM/blob/cfd3ab9a47be09c8acd3dab569c39452d9f54593/Workbook/SVM.pdf): Workbook Support Vctor Machines (SVM)
 > 
 > * [Access](https://github.com/Mindful-AI-Assistants/3-social-buzz-ai-Support-Vector-Machines-SVM/blob/1567e7dbb69685b73403acb9e16b36d48b428315/Code_Support_Vector_Machines(SVM)/Code_Support_Vector_Machines_SVM.ipynb): 1- Code_SVM
 >
