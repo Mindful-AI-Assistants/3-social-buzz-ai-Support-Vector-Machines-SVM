@@ -57,14 +57,14 @@
 
 > [!TIP]
 >
-> * [Access](): Workbook
+> * [Access](): Workbook Support Vctor Machines (SVM)
 > 
-> * [Access](): 1- Code_
+> * [Access](https://github.com/Mindful-AI-Assistants/3-social-buzz-ai-Support-Vector-Machines-SVM/blob/1567e7dbb69685b73403acb9e16b36d48b428315/Code_Support_Vector_Machines(SVM)/Code_Support_Vector_Machines_SVM.ipynb): 1- Code_SVM
 >
 > * [Access]():  2-Code_
 >
 >
-> * [Access]():  Datase
+> * [Access]():  Dataset
 >
 
  
