@@ -74,11 +74,14 @@
 <!--End-->
 
 
-# Support Vector Machines (SVM)
+## Support Vector Machines (SVM)
 
 Support Vector Machines (SVM) is a supervised machine learning algorithm for classification tasks. This repository provides a comprehensive explanation of SVM, including theory, concepts, comparative analysis, and illustrative plots.
 
-## Table of Contents
+<br>
+
+
+### Table of Contents
 
 - [Overview](#overview)
 - [Key Concepts](#key-concepts)
@@ -94,20 +97,7 @@ Support Vector Machines (SVM) is a supervised machine learning algorithm for cla
 - [References](#references)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br><br><br>
 
 
 
@@ -156,6 +146,56 @@ Support Vector Machines (SVM) is a supervised machine learning algorithm for cla
 
 <br><br>
 <br><br>
+
+
+
+
+## Comparison of Common Machine Learning Algorithms (Part 1)
+
+<br>
+
+
+| Criterion | Decision Tree | Random Forest | Gradient Boosting (GBM) | Support Vector Machine (SVM) |
+| :-- | :-- | :-- | :-- | :-- |
+| Model Type | Single tree | Ensemble of trees (bagging) | Ensemble of trees (boosting) | Margin-based hyperplane classifier |
+| Overfitting Tendency | High (if unpruned) | Lower (averaging many trees) | Moderate (can overfit if not tuned) | Possible if parameters poorly chosen |
+| Interpretability | High | Moderate | Low | Difficult |
+| Training Speed | Very fast | Reasonable | Slower than RF | Slow on very large datasets |
+| Prediction Speed | Very fast | Fast | Moderate | Moderate |
+| Scalability | Good | Good | Moderate | Poor on very large datasets |
+| Normalization Needed | No | No | No | Yes |
+| Non-linear Capability | Weak | Good | Very good | Excellent with kernel trick |
+| Variable Importance | Easy to extract | Easy to extract | Easy to extract | Not native (requires permutation) |
+| Typical Application | Simple interpretable models | Large-scale classification/regression | High performance competitions | Complex data, NLP, bioinformatics |
+
+
+<br><br>
+
+## Comparison of Common Machine Learning Algorithms (Part 2)
+
+<br>
+
+
+| Criterion | k-Nearest Neighbors (kNN) | Naive Bayes | Artificial Neural Networks (ANN) | XGBoost |
+| :-- | :-- | :-- | :-- | :-- |
+| Model Type | Instance-based (lazy) | Probabilistic | Deep learning | Gradient boosting ensemble |
+| Overfitting Tendency | Low to moderate (data-dependent) | Moderate (assumes independence) | Can overfit without regularization | Moderate to low (with tuning) |
+| Interpretability | Low | Moderate | Low | Low |
+| Training Speed | Very fast (training = lazy) | Very fast | Slow | Moderate to slow |
+| Prediction Speed | Slow (needs distance calc) | Very fast | Fast if hardware-accelerated | Fast |
+| Scalability | Poor on big data | Good | Good (with hardware support) | Good |
+| Normalization Needed | Yes | No | Yes | Yes |
+| Non-linear Capability | Good | Weak (depends on distribution) | Excellent | Excellent |
+| Variable Importance | No | No | No (opaque) | Yes |
+| Typical Application | Small datasets, recommender | Text classification, spam filtering | Image, speech, NLP | Structured data competitions |
+
+
+
+
+
+
+
+
 <br><br>
 <br><br>
 <br><br>
