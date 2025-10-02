@@ -64,7 +64,7 @@
 > * [Access]():  2-Code_
 >
 >
-> * [Access]():  Dataset
+> * [Access](https://github.com/Mindful-AI-Assistants/3-social-buzz-ai-Support-Vector-Machines-SVM/blob/d4f48fb3c1a922e2eba3a3faf6ce096643fc10f4/Dataset/Varejo.csv):  Dataset
 >
 
  
