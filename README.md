@@ -74,6 +74,24 @@
 <!--End-->
 
 
+# Support Vector Machines (SVM)
+
+Support Vector Machines (SVM) is a supervised machine learning algorithm for classification tasks. This repository provides a comprehensive explanation of SVM, including theory, concepts, comparative analysis, and illustrative plots.
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Key Concepts](#key-concepts)
+    - [Data Representation and Hyperplanes](#data-representation-and-hyperplanes)
+    - [Support Vectors](#support-vectors)
+    - [Soft Margin Classification](#soft-margin-classification)
+    - [Non-linearly Separable Data and Kernel Trick](#non-linearly-separable-data-and-kernel-trick)
+- [Algorithmic Details](#algorithmic-details)
+- [Strengths and Weaknesses](#strengths-and-weaknesses)
+- [Comparison with Other Classifiers](#comparison-with-other-classifiers)
+- [Applications](#applications)
+- [Illustrative Plots](#illustrative-plots)
+- [References](#references)
 
 
 
