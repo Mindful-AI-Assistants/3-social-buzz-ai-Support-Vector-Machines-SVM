@@ -74,11 +74,14 @@
 <!--End-->
 
 
-# Support Vector Machines (SVM)
+## Support Vector Machines (SVM)
 
 Support Vector Machines (SVM) is a supervised machine learning algorithm for classification tasks. This repository provides a comprehensive explanation of SVM, including theory, concepts, comparative analysis, and illustrative plots.
 
-## Table of Contents
+<br>
+
+
+### Table of Contents
 
 - [Overview](#overview)
 - [Key Concepts](#key-concepts)
