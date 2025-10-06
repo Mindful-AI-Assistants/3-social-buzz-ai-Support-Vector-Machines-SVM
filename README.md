@@ -111,10 +111,30 @@ SVM is widely used in:
 <br><br><br>
 
 
+# Support Vector Machines (SVM)
+
+Support Vector Machines (SVM) is a supervised machine learning algorithm widely used for classification tasks. This repository contains a comprehensive explanation of the SVM algorithm, including its theory, mathematical foundations, key concepts, and practical considerations.
 
 
+<br>
+
+## Overview
+
+Support Vector Machines classify data points by determining an optimal separator (hyperplane) that best distinguishes between different classes. The data points are mapped into an n-dimensional feature space, where $n$ is the number of features, and the classification is achieved by finding the hyperplane that maximizes the margin between classes.
+
+<br>
 
 
+## Key Concepts
+
+### Data Representation and Hyperplanes
+
+- Each data point is represented as a point in an n-dimensional space corresponding to its features.
+- The SVM finds a hyperplane (line in 2D, plane in 3D, etc.) that separates classes with the widest possible margin.
+- Support Vectors are the critical training examples closest to the hyperplane; they define the position and orientation of the optimal separating hyperplane.
+
+
+<br>
 
 
 
