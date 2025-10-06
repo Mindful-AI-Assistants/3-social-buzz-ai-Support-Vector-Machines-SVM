@@ -168,11 +168,19 @@ Support Vector Machines classify data points by determining an optimal separator
 
 <br>
 
+## Strengths and Weaknesses of SVM
+
+<br>
+
+| Strengths | Weaknesses |
+| :-- | :-- |
+| High accuracy especially in high-dimensional spaces | Requires careful kernel selection |
+| Memory efficient | Can overfit when features exceed samples |
+| Fast classification process | Does not provide direct probability estimates |
+|  | Not efficient with very large datasets |
 
 
-
-
-
+<br>
 
 
 
