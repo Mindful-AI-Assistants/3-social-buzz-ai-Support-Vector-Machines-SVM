@@ -137,10 +137,36 @@ Support Vector Machines classify data points by determining an optimal separator
 <br>
 
 
+### Support Vectors
+
+- Support vectors are the most important training data points because they influence the position of the decision boundary.
+- Other training points far from the boundary are ignored in the final model.
+
+<br>
+
+### Soft Margin Classification
+
+- Introduces a slack variable to allow some misclassification to improve generalization.
+- Soft margin allows some points to be on the wrong side of the margin but tries to classify the majority correctly.
+
+<br>
+
+### Non-linearly Separable Data and Kernel Trick
+
+- When data cannot be separated by a linear hyperplane, SVM maps data into a higher-dimensional space where it becomes linearly separable.
+- This is done via kernel functions that implicitly perform this mapping without explicitly computing coordinates in the high-dimensional space.
+- Common kernels include Polynomial Kernel and Radial Basis Function (RBF).
+
+<br>
+
+## Algorithmic Details
+
+- SVM optimization tries to maximize the margin between classes while minimizing classification errors.
+- Different kernels allow SVM to handle linear and non-linear classification problems effectively.
+- The choice of kernel and parameters significantly impacts the model performance.
 
 
-
-
+<br>
 
 
 
