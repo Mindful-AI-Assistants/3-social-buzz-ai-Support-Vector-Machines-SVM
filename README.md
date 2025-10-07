@@ -74,25 +74,30 @@
 <!--End-->
 
 
-## Support Vector Machines (SVM)
+## [Support Vector Machines (SVM)]()
 
-Support Vector Machines (SVM) is a supervised machine learning algorithm for classification tasks. This repository provides a comprehensive explanation of SVM, including theory, concepts, comparative analysis, and illustrative plots.
+
+Support Vector Machines (SVM) is a supervised machine learning algorithm widely used for classification tasks. This repository contains a comprehensive explanation of the SVM algorithm, including its theory, mathematical foundations, key concepts, and practical considerations.
+
+
+<br><br>
+
+## [Applications]()
+
+[SVM is widely used in]():
+
+[-]() Image recognition
+
+[-]() Text classification and natural language processing
+
+[-]() Bioinformatics
+
+[-]() Any binary classification problems requiring high accuracy and robustness
 
 <br>
 
-## Applications
 
-SVM is widely used in:
-
-- Image recognition
-- Text classification and natural language processing
-- Bioinformatics
-- Any binary classification problems requiring high accuracy and robustness
-
-<br>
-
-
-### Table of Contents
+### [Table of Contents]()
 
 - [Overview](#overview)
 - [Key Concepts](#key-concepts)
@@ -108,15 +113,8 @@ SVM is widely used in:
 - [References](#references)
 
 
-<br><br><br>
-
-
-# Support Vector Machines (SVM)
-
-Support Vector Machines (SVM) is a supervised machine learning algorithm widely used for classification tasks. This repository contains a comprehensive explanation of the SVM algorithm, including its theory, mathematical foundations, key concepts, and practical considerations.
-
-
 <br><br>
+
 
 ## Overview
 
