@@ -224,8 +224,8 @@ Support Vector Machines classify data points by determining an optimal separator
 
 | [Criterion]() | [k-Nearest Neighbors (kNN)]() | [Naive Bayes]() | [Artificial Neural Networks (ANN)]() | [XGBoost]() |
 | :-- | :-- | :-- | :-- | :-- |
-| Model Type]() | Instance-based (lazy) | Probabilistic | Deep learning | Gradient boosting ensemble |
-| Overfitting Tendency]() | Low to moderate (data-dependent) | Moderate (assumes independence) | Can overfit without regularization | Moderate to low (with tuning) |
+| [Model Type]() | Instance-based (lazy) | Probabilistic | Deep learning | Gradient boosting ensemble |
+| [Overfitting Tendency]() | Low to moderate (data-dependent) | Moderate (assumes independence) | Can overfit without regularization | Moderate to low (with tuning) |
 | [Interpretability]() | Low | Moderate | Low | Low |
 | [Training Speed]() | Very fast (training = lazy) | Very fast | Slow | Moderate to slow |
 | [Prediction Speed]() | Slow (needs distance calc) | Very fast | Fast if hardware-accelerated | Fast |
