@@ -123,16 +123,16 @@ Support Vector Machines (SVM) is a supervised machine learning algorithm widely 
 <br><br>
 
 
-## Overview
+## [Overview]()
 
 Support Vector Machines classify data points by determining an optimal separator (hyperplane) that best distinguishes between different classes. The data points are mapped into an n-dimensional feature space, where $n$ is the number of features, and the classification is achieved by finding the hyperplane that maximizes the margin between classes.
 
 <br><br>
 
 
-## Key Concepts
+## [Key Concepts]()
 
-### Data Representation and Hyperplanes
+### [Data Representation and Hyperplanes]()
 
 <br>
 
@@ -144,7 +144,7 @@ Support Vector Machines classify data points by determining an optimal separator
 <br>
 
 
-### Support Vectors
+### [Support Vectors]()
 
 <br>
 
@@ -153,7 +153,7 @@ Support Vector Machines classify data points by determining an optimal separator
 
 <br>
 
-### Soft Margin Classification
+### [Soft Margin Classification]()
 
 <br>
 
@@ -162,7 +162,7 @@ Support Vector Machines classify data points by determining an optimal separator
 
 <br>
 
-### Non-linearly Separable Data and Kernel Trick
+### [Non-linearly Separable Data and Kernel Trick]()
 
 - When data cannot be separated by a linear hyperplane, SVM maps data into a higher-dimensional space where it becomes linearly separable.
 - This is done via kernel functions that implicitly perform this mapping without explicitly computing coordinates in the high-dimensional space.
@@ -171,7 +171,7 @@ Support Vector Machines classify data points by determining an optimal separator
 
 <br><br>
 
-## Algorithmic Details
+## [Algorithmic Details]()
 
 <br>
 
@@ -181,11 +181,11 @@ Support Vector Machines classify data points by determining an optimal separator
 
 <br><br>
 
-## Strengths and Weaknesses of SVM
+## [Strengths and Weaknesses of SVM]()
 
 <br>
 
-| Strengths | Weaknesses |
+| [Strengths]() | [Weaknesses]() |
 | :-- | :-- |
 | High accuracy especially in high-dimensional spaces | Requires careful kernel selection |
 | Memory efficient | Can overfit when features exceed samples |
@@ -195,7 +195,7 @@ Support Vector Machines classify data points by determining an optimal separator
 
 <br><br>
 
-## Applications
+## [Applications]()
 
 SVM is widely used in:
 
@@ -210,11 +210,11 @@ SVM is widely used in:
 <br><br>
 
 
-## Comparison of Common Machine Learning Algorithms (Part 1)
+## [Comparison of Common Machine Learning Algorithms (Part 1)]()
 
 <br>
 
-| Criterion | Decision Tree | Random Forest | Gradient Boosting (GBM) | Support Vector Machine (SVM) |
+| [Criterion]() | [Decision Tree]() | [Random Forest]() | [Gradient Boosting (GBM)]() | [Support Vector Machine (SVM)]() |
 | :-- | :-- | :-- | :-- | :-- |
 | Model Type | Single tree | Ensemble of trees (bagging) | Ensemble of trees (boosting) | Margin-based hyperplane classifier |
 | Overfitting Tendency | High (if unpruned) | Lower (averaging many trees) | Moderate (can overfit if not tuned) | Possible if parameters poorly chosen |
@@ -230,12 +230,12 @@ SVM is widely used in:
 
 <br><br>
 
-## Comparison of Common Machine Learning Algorithms (Part 2)
+## [Comparison of Common Machine Learning Algorithms (Part 2)]()
 
 <br>
 
 
-| Criterion | k-Nearest Neighbors (kNN) | Naive Bayes | Artificial Neural Networks (ANN) | XGBoost |
+| [Criterion]() | [k-Nearest Neighbors (kNN)]() | [Naive Bayes]() | [Artificial Neural Networks (ANN)]() | [XGBoost]() |
 | :-- | :-- | :-- | :-- | :-- |
 | Model Type | Instance-based (lazy) | Probabilistic | Deep learning | Gradient boosting ensemble |
 | Overfitting Tendency | Low to moderate (data-dependent) | Moderate (assumes independence) | Can overfit without regularization | Moderate to low (with tuning) |
