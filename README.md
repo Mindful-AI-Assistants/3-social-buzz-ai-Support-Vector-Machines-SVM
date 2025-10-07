@@ -116,18 +116,20 @@ SVM is widely used in:
 Support Vector Machines (SVM) is a supervised machine learning algorithm widely used for classification tasks. This repository contains a comprehensive explanation of the SVM algorithm, including its theory, mathematical foundations, key concepts, and practical considerations.
 
 
-<br>
+<br><br>
 
 ## Overview
 
 Support Vector Machines classify data points by determining an optimal separator (hyperplane) that best distinguishes between different classes. The data points are mapped into an n-dimensional feature space, where $n$ is the number of features, and the classification is achieved by finding the hyperplane that maximizes the margin between classes.
 
-<br>
+<br><br>
 
 
 ## Key Concepts
 
 ### Data Representation and Hyperplanes
+
+<br>
 
 - Each data point is represented as a point in an n-dimensional space corresponding to its features.
 - The SVM finds a hyperplane (line in 2D, plane in 3D, etc.) that separates classes with the widest possible margin.
@@ -139,12 +141,16 @@ Support Vector Machines classify data points by determining an optimal separator
 
 ### Support Vectors
 
+<br>
+
 - Support vectors are the most important training data points because they influence the position of the decision boundary.
 - Other training points far from the boundary are ignored in the final model.
 
 <br>
 
 ### Soft Margin Classification
+
+<br>
 
 - Introduces a slack variable to allow some misclassification to improve generalization.
 - Soft margin allows some points to be on the wrong side of the margin but tries to classify the majority correctly.
@@ -157,16 +163,18 @@ Support Vector Machines classify data points by determining an optimal separator
 - This is done via kernel functions that implicitly perform this mapping without explicitly computing coordinates in the high-dimensional space.
 - Common kernels include Polynomial Kernel and Radial Basis Function (RBF).
 
-<br>
+
+<br><br>
 
 ## Algorithmic Details
+
+<br>
 
 - SVM optimization tries to maximize the margin between classes while minimizing classification errors.
 - Different kernels allow SVM to handle linear and non-linear classification problems effectively.
 - The choice of kernel and parameters significantly impacts the model performance.
 
-
-<br>
+<br><br>
 
 ## Strengths and Weaknesses of SVM
 
@@ -180,11 +188,13 @@ Support Vector Machines classify data points by determining an optimal separator
 |  | Not efficient with very large datasets |
 
 
-<br>
+<br><br>
 
 ## Applications
 
 SVM is widely used in:
+
+<br>
 
 - Image recognition
 - Text classification and natural language processing
@@ -198,7 +208,6 @@ SVM is widely used in:
 ## Comparison of Common Machine Learning Algorithms (Part 1)
 
 <br>
-
 
 | Criterion | Decision Tree | Random Forest | Gradient Boosting (GBM) | Support Vector Machine (SVM) |
 | :-- | :-- | :-- | :-- | :-- |
@@ -238,7 +247,21 @@ SVM is widely used in:
 <br><br>
 
 
+## Applications
 
+### SVM is widely used in:
+
+<br>
+
+- Image recognition
+- Text classification and natural language processing
+- Bioinformatics
+- Any binary classification problems requiring high accuracy and robustness
+
+
+<br><br>
+
+## Illustrative Plots
 
 
 
