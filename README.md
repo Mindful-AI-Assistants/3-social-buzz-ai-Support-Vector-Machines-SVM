@@ -265,11 +265,9 @@ SVM is widely used in:
 
 Below are essential Python code examples to generate plots illustrating SVM concepts. Run these scripts in a Jupyter notebook or Python IDE to visualize:
 
-<br>
-
 ### 1. Linear SVM: Decision Boundary and Margin
 
-<br><br>
+<br>
 
 ```python
 import numpy as np
@@ -308,8 +306,38 @@ plt.show()
 
 <br><br>
 
+### 2. Soft Margin SVM: Overlapping Data
 
+<br>
 
+```python
+import numpy as np
+import matplotlib.pyplot as plt
+from sklearn import svm
+
+X_soft = np.array([[1, 2], [2, 2], [3, 3], [6, 5], [7, 8], [8, 8], [5, 5], [5, 6]])
+y_soft = [0, 0, 0, 1, 1, 1, 0, 1]
+
+clf_soft = svm.SVC(kernel='linear', C=1)
+clf_soft.fit(X_soft, y_soft)
+
+plt.scatter(X_soft[:,0], X_soft[:,1], c=y_soft, s=100, cmap='coolwarm', edgecolors='k')
+
+w = clf_soft.coef_[^0]
+b = clf_soft.intercept_[^0]
+x_plot = np.linspace(0, 10, 200)
+y_plot = -(w[^0]/w[^1]) * x_plot - b/w[^1]
+plt.plot(x_plot, y_plot, 'k-', label='Hyperplane Soft Margin')
+plt.scatter(clf_soft.support_vectors_[:,0], clf_soft.support_vectors_[:,1], s=200,
+            facecolors='none', edgecolors='k', label='Support Vectors')
+
+plt.title('Soft Margin SVM: Overlapping Data')
+plt.xlabel('Feature 1')
+plt.ylabel('Feature 2')
+plt.legend()
+plt.grid(True)
+plt.show()
+```
 
 
 
