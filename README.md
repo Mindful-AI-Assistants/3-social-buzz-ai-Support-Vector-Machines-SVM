@@ -394,22 +394,12 @@ plt.show()
 <br><br>
 
 
+## References
+
+- Based on detailed theoretical and practical exposition of SVM.
+- Comparative analysis drawn from standard machine learning sources.
 
 
-
-
-
-
-
-
-
-
-
-
-
-<br><br>
-<br><br>
-<br><br>
 <br><br>
 
 
