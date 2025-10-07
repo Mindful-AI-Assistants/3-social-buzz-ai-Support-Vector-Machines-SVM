@@ -195,19 +195,6 @@ Support Vector Machines classify data points by determining an optimal separator
 
 <br><br>
 
-## [Applications]()
-
-SVM is widely used in:
-
-<br>
-
-- Image recognition
-- Text classification and natural language processing
-- Bioinformatics
-- Any binary classification problems requiring high accuracy and robustness
-
-
-<br><br>
 
 
 ## [Comparison of Common Machine Learning Algorithms (Part 1)]()
