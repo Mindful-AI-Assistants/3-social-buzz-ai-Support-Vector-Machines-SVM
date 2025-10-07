@@ -82,22 +82,27 @@ Support Vector Machines (SVM) is a supervised machine learning algorithm widely 
 
 <br><br>
 
-## [Applications]()
 
-[SVM is widely used in]():
+> [!IMPORTANT]
+>
+> ## [Applications]()
+>
+> [SVM is widely used in]():
+>
+> [-]() Text classification and natural language processing
+>
+> [-]() Bioinformatics
+>
+> [-]() Any binary classification problems requiring high accuracy and robustness
+>
+> 
 
-[-]() Image recognition
-
-[-]() Text classification and natural language processing
-
-[-]() Bioinformatics
-
-[-]() Any binary classification problems requiring high accuracy and robustness
-
-<br>
 
 
-### [Table of Contents]()
+<br><br>
+
+
+## [Table of Contents]()
 
 - [Overview](#overview)
 - [Key Concepts](#key-concepts)
