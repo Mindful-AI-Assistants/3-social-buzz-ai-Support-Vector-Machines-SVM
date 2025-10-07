@@ -197,7 +197,7 @@ Support Vector Machines classify data points by determining an optimal separator
 
 
 
-## [Comparison of Common Machine Learning Algorithms (Part 1)]()
+## [Comparison of Common Machine Learning Algorithms]() (Part 1)
 
 <br>
 
@@ -217,7 +217,7 @@ Support Vector Machines classify data points by determining an optimal separator
 
 <br><br>
 
-## [Comparison of Common Machine Learning Algorithms (Part 2)]()
+## [Comparison of Common Machine Learning Algorithms]() (Part 2)
 
 <br>
 
