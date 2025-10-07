@@ -203,16 +203,16 @@ Support Vector Machines classify data points by determining an optimal separator
 
 | [Criterion]() | [Decision Tree]() | [Random Forest]() | [Gradient Boosting (GBM)]() | [Support Vector Machine (SVM)]() |
 | :-- | :-- | :-- | :-- | :-- |
-| Model Type | Single tree | Ensemble of trees (bagging) | Ensemble of trees (boosting) | Margin-based hyperplane classifier |
-| Overfitting Tendency | High (if unpruned) | Lower (averaging many trees) | Moderate (can overfit if not tuned) | Possible if parameters poorly chosen |
-| Interpretability | High | Moderate | Low | Difficult |
-| Training Speed | Very fast | Reasonable | Slower than RF | Slow on very large datasets |
-| Prediction Speed | Very fast | Fast | Moderate | Moderate |
-| Scalability | Good | Good | Moderate | Poor on very large datasets |
-| Normalization Needed | No | No | No | Yes |
-| Non-linear Capability | Weak | Good | Very good | Excellent with kernel trick |
-| Variable Importance | Easy to extract | Easy to extract | Easy to extract | Not native (requires permutation) |
-| Typical Application | Simple interpretable models | Large-scale classification/regression | High performance competitions | Complex data, NLP, bioinformatics |
+| [Model Type]() | Single tree | Ensemble of trees (bagging) | Ensemble of trees (boosting) | Margin-based hyperplane classifier |
+| [Overfitting Tendency]() | High (if unpruned) | Lower (averaging many trees) | Moderate (can overfit if not tuned) | Possible if parameters poorly chosen |
+| [Interpretability]() | High | Moderate | Low | Difficult |
+| [Training Speed]() | Very fast | Reasonable | Slower than RF | Slow on very large datasets |
+| [Prediction Speed]() | Very fast | Fast | Moderate | Moderate |
+| [Scalability]() | Good | Good | Moderate | Poor on very large datasets |
+| [Normalization Needed]() | No | No | No | Yes |
+| [Non-linear Capability]() | Weak | Good | Very good | Excellent with kernel trick |
+| [Variable Importance]() | Easy to extract | Easy to extract | Easy to extract | Not native (requires permutation) |
+| [Typical Application]() | Simple interpretable models | Large-scale classification/regression | High performance competitions | Complex data, NLP, bioinformatics |
 
 
 <br><br>
