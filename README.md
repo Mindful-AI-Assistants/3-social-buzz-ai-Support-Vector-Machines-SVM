@@ -192,36 +192,7 @@ SVM is widely used in:
 - Any binary classification problems requiring high accuracy and robustness
 
 
-<br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <br><br>
-<br><br>
-
-
 
 
 ## Comparison of Common Machine Learning Algorithms (Part 1)
@@ -264,13 +235,30 @@ SVM is widely used in:
 | Typical Application | Small datasets, recommender | Text classification, spam filtering | Image, speech, NLP | Structured data competitions |
 
 
-
-
-
-
-
-
 <br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <br><br>
 <br><br>
 <br><br>
