@@ -263,6 +263,52 @@ SVM is widely used in:
 
 ## Illustrative Plots
 
+Below are essential Python code examples to generate plots illustrating SVM concepts. Run these scripts in a Jupyter notebook or Python IDE to visualize:
+
+<br>
+
+### 1. Linear SVM: Decision Boundary and Margin
+
+<br><br>
+
+```python
+import numpy as np
+import matplotlib.pyplot as plt
+from sklearn import svm
+
+X = np.array([[2, 3], [3, 3], [2, 4], [7, 8], [8, 8], [7, 9]])
+y = [0, 0, 0, 1, 1, 1]
+
+clf = svm.SVC(kernel='linear', C=1000)
+clf.fit(X, y)
+
+w = clf.coef_[^0]
+b = clf.intercept_[^0]
+x_plot = np.linspace(0, 10, 200)
+y_plot = -(w[^0]/w[^1]) * x_plot - b/w[^1]
+
+margin = 1/np.linalg.norm(w)
+margin_up = y_plot + margin * np.sqrt(1 + (w[^0]/w[^1])**2)
+margin_down = y_plot - margin * np.sqrt(1 + (w[^0]/w[^1])**2)
+
+plt.scatter(X[:,0], X[:,1], c=y, s=100, cmap='coolwarm', edgecolors='k')
+plt.plot(x_plot, y_plot, 'k-', label='Hyperplane')
+plt.plot(x_plot, margin_up, 'k--', label='Margin')
+plt.plot(x_plot, margin_down, 'k--')
+plt.scatter(clf.support_vectors_[:,0], clf.support_vectors_[:,1], s=200,
+            facecolors='none', edgecolors='k', label='Support Vectors')
+
+plt.title('SVM Linear Kernel: Decision Boundary and Margin')
+plt.xlabel('Feature 1')
+plt.ylabel('Feature 2')
+plt.legend()
+plt.grid(True)
+plt.show()
+```
+
+<br><br>
+
+
 
 
 
