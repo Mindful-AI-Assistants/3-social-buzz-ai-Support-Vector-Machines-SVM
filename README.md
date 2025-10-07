@@ -239,25 +239,11 @@ Support Vector Machines classify data points by determining an optimal separator
 <br><br>
 
 
-## Applications
-
-### SVM is widely used in:
-
-<br>
-
-- Image recognition
-- Text classification and natural language processing
-- Bioinformatics
-- Any binary classification problems requiring high accuracy and robustness
-
-
-<br><br>
-
-## Illustrative Plots
+## [Illustrative Plots]()
 
 Below are essential Python code examples to generate plots illustrating SVM concepts. Run these scripts in a Jupyter notebook or Python IDE to visualize:
 
-### 1. Linear SVM: Decision Boundary and Margin
+### 1. [Linear SVM: Decision Boundary and Margin]()
 
 <br>
 
@@ -298,7 +284,7 @@ plt.show()
 
 <br><br>
 
-### 2. Soft Margin SVM: Overlapping Data
+### 2. [Soft Margin SVM: Overlapping Data]()
 
 <br>
 
@@ -334,7 +320,7 @@ plt.show()
 
 <br><br>
 
-### 3. Non-Linear SVM with Polynomial Kernel
+### 3. [Non-Linear SVM with Polynomial Kernel]()
 
 <br>
 
@@ -386,7 +372,7 @@ plt.show()
 <br><br>
 
 
-## References
+## [References]()
 
 - Based on detailed theoretical and practical exposition of SVM.
 - Comparative analysis drawn from standard machine learning sources.
