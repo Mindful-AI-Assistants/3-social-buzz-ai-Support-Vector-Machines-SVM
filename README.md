@@ -65,8 +65,8 @@
 >
 > * [Access](https://github.com/Mindful-AI-Assistants/3-social-buzz-ai-Support-Vector-Machines-SVM/tree/1820b3f806f6e7726fe828a73eb718f06fdffbbd/project_SVM): project_SVM - Briefinbg + Dataset + Code and Data Analysing Report
 >
-> 
-
+> * [Access]() – In-Class SVM Test 
+>
  
 <br><br>
 
