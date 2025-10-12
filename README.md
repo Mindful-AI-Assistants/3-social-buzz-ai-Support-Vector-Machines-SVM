@@ -61,11 +61,11 @@
 > 
 > * [Access](https://github.com/Mindful-AI-Assistants/3-social-buzz-ai-Support-Vector-Machines-SVM/blob/1567e7dbb69685b73403acb9e16b36d48b428315/Code_Support_Vector_Machines(SVM)/Code_Support_Vector_Machines_SVM.ipynb): 1- Code_SVM
 >
-> * [Access]():  2-Code
->
->
 > * [Access](https://github.com/Mindful-AI-Assistants/3-social-buzz-ai-Support-Vector-Machines-SVM/blob/d4f48fb3c1a922e2eba3a3faf6ce096643fc10f4/Dataset/Varejo.csv):  Dataset
 >
+> * [Access](): project_SVM - Briefinbg + Dataset + Code and Data Analysing Report
+>
+> 
 
  
 <br><br>
