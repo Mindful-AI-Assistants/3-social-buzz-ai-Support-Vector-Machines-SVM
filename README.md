@@ -27,7 +27,25 @@
 <br><br>
 
 
-#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-%C2%B7%C2%B7%C2%B7%20Mindful%20AI%20Assistants%20%C2%B7%C2%B7%C2%B7-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
+#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-%C2%B7%C2%B7%C2%B7%20Mindful%20AI%20Assistants%20%C2%B7%C2%B7%C2%B7-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants
+
+
+<br><br>
+
+
+> [!TIP]
+>
+>  The repository 3-social-buzz-ai-Support-Vector-Machines-SVM is part of the main project 1-social-buzz-ai-main.
+>  To explore all related materials, analyses, and notebooks, visit the main repository 
+>
+> * [1-social-buzz-ai-main](https://github.com/Mindful-AI-Assistants/1-social-buzz-ai-main)
+> *Part of the Humanistic AI Research & Data Modeling Series — where data meets human insight.*
+>
+> <br>
+
+
+
+
 
 
 <!--Confidentiality Statement-->
