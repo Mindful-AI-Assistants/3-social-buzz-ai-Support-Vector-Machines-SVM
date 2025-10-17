@@ -35,7 +35,7 @@
 
 > [!TIP]
 >
->  The repository 3-social-buzz-ai-Support-Vector-Machines-SVM is part of the main project 1-social-buzz-ai-main.
+>  This repository 3-social-buzz-ai-Support-Vector-Machines-SVM is part of the main project 1-social-buzz-ai-main.
 >  To explore all related materials, analyses, and notebooks, visit the main repository 
 >
 > * [1-social-buzz-ai-main](https://github.com/Mindful-AI-Assistants/1-social-buzz-ai-main)
